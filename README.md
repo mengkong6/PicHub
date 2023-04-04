@@ -7,8 +7,6 @@
 [前往在线地址](https://upload.png.cool/)
 </div> 
 
-[![HitCount](https://hits.dwyl.com/lewkamtao/PicHub.svg?style=flat-square)](http://hits.dwyl.com/lewkamtao/PicHub)
-
 ## 简介
 
 一个基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具
